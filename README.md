@@ -1,4 +1,7 @@
 <div align="center">
+    <img src="https://malikkhubiev.github.io/benz/merscedes.png" width="85%" alt="Streamlit UI" />
+</div>
+<div align="center">
 
 # Mercedes-Benz Price Intelligence
 
@@ -73,10 +76,6 @@ flowchart TD
 
 ## 🔥 UX Streamlit-приложения
 
-<div align="center">
-    <img src="https://malikkhubiev.github.io/benz/merscedes.png" width="85%" alt="Streamlit UI" />
-</div>
-
 **Что увидит пользователь:**
 - Выбор модели из каталога, год (1990–2025), пробег (0–500 000 км).  
 - Мгновенный расчёт возраста и статуса «Новый / С пробегом».  
@@ -124,6 +123,7 @@ streamlit run merscedes_app.py
 <div align="center">
     Сделано с вниманием к деталям Mercedes, к российскому рынку и к тому, как выглядит настоящая data-driven экспертиза.
 </div>
+
 
 
 
